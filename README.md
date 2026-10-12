@@ -96,6 +96,8 @@ conda activate wingstrokeanalyzer
 python WingStrokeAnalyzer.py
 ```
 
+wingbeat.mat contains flying fly images for a simulated camera.
+
 ### Experimental workflow
 
 1. **Preview:** Select the camera and click **Preview** to confirm that images are being acquired.
