@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use WingStrokeAnalyzer in your research, please cite the paper listed below."
+type: software
+title: "WingStrokeAnalyzer"
+authors:
+  - family-names: Kim
+    given-names: Sung Soo
+license: BSD-3-Clause
+
+preferred-citation:
+  type: article
+  title: "Ring attractor dynamics in the Drosophila central brain"
+  authors:
+    - family-names: Kim
+      given-names: Sung Soo
+    - family-names: Rouault
+      given-names: Hervé
+    - family-names: Druckmann
+      given-names: Shaul
+    - family-names: Jayaraman
+      given-names: Vivek
+  journal: Science
+  year: 2017
+  volume: 356
+  issue: 6340
+  start: 849
+  end: 853
+  doi: 10.1126/science.aal4835
